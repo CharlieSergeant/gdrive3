@@ -1,0 +1,8 @@
+python-dotenv
+pydrive2
+appdirs
+fsspec
+pandas
+funcy
+tqdm
+joblib
